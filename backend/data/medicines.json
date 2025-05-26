@@ -1,0 +1,26 @@
+[
+  {
+    "brand": "Crocin",
+    "generic": "Paracetamol",
+    "price": "\u20b95",
+    "uses": "fever, headache"
+  },
+  {
+    "brand": "Combiflam",
+    "generic": "Ibuprofen + Paracetamol",
+    "price": "\u20b910",
+    "uses": "body pain, inflammation"
+  },
+  {
+    "brand": "Cetrizine",
+    "generic": "Cetirizine",
+    "price": "\u20b93",
+    "uses": "allergy, sneezing"
+  },
+  {
+    "brand": "Zifi",
+    "generic": "Cefixime",
+    "price": "\u20b925",
+    "uses": "bacterial infection, fever"
+  }
+]
