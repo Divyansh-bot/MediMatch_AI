@@ -104,7 +104,8 @@ You can deploy:
 
 ## 📸 Screenshots
 
-> _[Add screenshots here if needed for demo]_
+![image](https://github.com/user-attachments/assets/ac3b37ae-b60f-41f2-a8e8-6a29ae144ecb)
+
 
 ---
 
